@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yasin Mogultay</h1>
-<h3 align="center">A student at Codeup for Full Stack Web Development.</h3>
+<h3 align="center">Currently Web Development Student at Codeup.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinmogultay&label=Profile%20views&color=0e75b6&style=flat" alt="yasinmogultay" /> </p>
 
 
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **JS,HTML,CSS,Bootstrap**
 
 - 📫 How to reach me **yasin.mglty@gmail.com**
 
