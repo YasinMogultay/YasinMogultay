@@ -3,7 +3,7 @@
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
-**yasin.mglty@gmail.com**
+<a href="yasin.mglty@gmail.com" target="blank"><img align="center"/>yasin.mglty@gmail.com</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
