@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Hello%20there,%20&#128075;%20I'm%20Yasin%20Mogultay&fontSize=45)
 
 <h1 align="center">Hi 👋, I'm Yasin Mogultay</h1>
 <h3 align="center">A student at Codeup for Full Stack Web Development.</h3>
