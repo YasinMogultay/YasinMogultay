@@ -3,7 +3,7 @@
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
-<a href="yasin.mglty@gmail.com" target="blank"><img align="center"/>yasin.mglty@gmail.com</a>
+<a href="yasin.mglty@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yasinmogultay" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
