@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yasin Mogultay</h1>
 <h3 align="center">A student at Codeup for Full Stack Web Development.</h3>
 
-- 📫 How to reach me **yasin.mglty@gmail.com**
+<h3 align="left">How to reach me:</h3>
+<p align="left">
+**yasin.mglty@gmail.com**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
