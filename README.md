@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Mogultay</h1>
-<h3 align="center">Full Stack Web Development Student.</h3>
+<h3 align="center">Current Full Stack Web Development Student at Codeup.</h3>
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
